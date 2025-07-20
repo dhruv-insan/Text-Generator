@@ -55,7 +55,7 @@ output_box = tk.Text(root, height=13, width=100, font=("Helvetica", 11), wrap="w
 output_box.pack(padx=20, pady=10)
 
 # ---------- Footer ----------
-footer = tk.Label(root, text="Designed by Aditya Kumar", font=("Helvetica", 10, "bold"),
+footer = tk.Label(root, text="Designed by Dhruv Chaudary", font=("Helvetica", 10, "bold"),
                   bg="#f0f4f8", fg="#555")
 footer.pack(side=tk.BOTTOM, pady=5)
 
